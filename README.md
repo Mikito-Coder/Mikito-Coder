@@ -1,5 +1,7 @@
 ## Kiitan
 
+I like making machines learn :)
+
 <!--
 **Mikito-Coder/Mikito-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
