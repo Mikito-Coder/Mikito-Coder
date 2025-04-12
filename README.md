@@ -2,7 +2,7 @@
 
 I like making machines learn :)
 
-Testing 1,2,4
+I like Swift, machine learning, deep learning. Worked at Apple. It's easy.
 
 <!--
 **Mikito-Coder/Mikito-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
